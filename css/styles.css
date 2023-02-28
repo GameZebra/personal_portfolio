@@ -24,12 +24,14 @@ div{
     border: solid;
     border-width: 20px;
     margin-left: 260px;
+    background-color: red;
 }
 
 .bottom-container{
     border: solid;
     border-width: 10px;
     margin-left: 500px;
+    background-color: blue;
 }
 
 
