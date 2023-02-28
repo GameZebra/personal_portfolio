@@ -1,3 +1,35 @@
 body{
-    background-color: blue;
+    margin:0px;
 }
+
+h1{
+    margin: 0px;
+    padding: 0px;
+}
+
+div{
+    height: 200px;
+    width: 200px;
+}
+
+.top-container{
+    margin: 0px;
+    padding: 20px;
+    border: solid;
+    border-width: 10px;
+    background-color: aquamarine;
+}
+
+.middle-container{
+    border: solid;
+    border-width: 20px;
+    margin-left: 260px;
+}
+
+.bottom-container{
+    border: solid;
+    border-width: 10px;
+    margin-left: 500px;
+}
+
+
